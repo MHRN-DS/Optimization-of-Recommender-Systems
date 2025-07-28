@@ -3,11 +3,13 @@
 This project explores the use of **Frank-Wolfe algorithms** for large-scale recommendation systems. Our approach focuses on solving convex optimization problems with sparsity constraints - in this specific case, the matrix completion problem -, leveraging variants of the Frank-Wolfe method including **Away-Step Frank-Wolfe**, **Pairwise Frank-Wolfe** and **In-Face Optimization**. Experiments were conducted on datasets such as **MovieLens 100k**, **Jester Jokes-1** and **MovieLens 1M**, demonstrating the algorithm's effectiveness for matrix completion tasks.
 
 > **Grade received: 28.5/30**  
-> **Contributors**: Max Hans-Jürgen Henry Horn, Mikhail Isakov (@Mishlen337), Lennart Niels Bredthauer (@Lenny945)  
+> **Contributors**: [@MaxHorn](https://github.com/MHRN-DS), [@MikhailIsakov](https://github.com/Mishlen337), [@LennartBredthauer](https://github.com/Lenny945)  
 > **University of Padova, Optimization for Data Science – July 2025**  
 > Supervisor: Prof. Dr. Francesco Rinaldi
 
 ---
+
+
 
 ## Overview
 
