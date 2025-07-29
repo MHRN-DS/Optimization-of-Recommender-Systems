@@ -32,7 +32,7 @@ The Frank-Wolfe algorithm (also known as Conditional Gradient) is well-suited fo
 ├── exp_MovieLens_1e6.ipynb      # Experiment: MovieLens 1M dataset
 ├── exp_MovieLens_1e5.ipynb      # Experiment: MovieLens 100K subset
 ├── jester_joker_exp.ipynb       # Experiment: Jester joke dataset
-├── Group_10_ODS_Recommender_Systems.pdf  # Final report (28.5/30)
+├── Recommender_Report.pdf       # Final report (28.5/30)
 ```
 
 ---
