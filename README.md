@@ -73,3 +73,8 @@ The Frank-Wolfe algorithm (also known as Conditional Gradient) is well-suited fo
 - Highly modular structure for reuse in other convex optimization contexts
 
 ---
+
+## License
+
+This project is intended for academic reference only.  
+Unauthorized reuse or modification is not permitted.
